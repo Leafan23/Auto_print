@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_print", "Auto_print.csproj", "{F82B881E-2CB8-4A4E-AB53-CCD1C4651D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82B881E-2CB8-4A4E-AB53-CCD1C4651D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82B881E-2CB8-4A4E-AB53-CCD1C4651D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82B881E-2CB8-4A4E-AB53-CCD1C4651D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82B881E-2CB8-4A4E-AB53-CCD1C4651D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B94C65-11E6-4E4F-806D-F93811B29007}
+	EndGlobalSection
+EndGlobal
